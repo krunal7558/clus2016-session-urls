@@ -13,9 +13,10 @@ Place clus2016sessions.ps1 and CLUS2016.csv in this folder
 Run clus2016sessions.ps1 powershell script
 
 
-# For Linux users (requires powershell 4.0 or higher)
+# For Linux users 
 
-Create ~/CLUS2016Sessions folder
+Create ~/CLUS2016Sessions folder 
+$mkdir ~CLUS2016Sessions
 
 Place clus2016sessions.sh and CLUS2016.csv in this folder
 
